@@ -1,4 +1,4 @@
-# 🚢 ML_TitanicSurvival Project
+# 🚢 ML_Titanic Survival Project
 
 ## 📘 Overview
 This project demonstrates a **machine learning pipeline** for predicting passenger survival on the Titanic dataset.  
